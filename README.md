@@ -158,7 +158,7 @@ leaving a luggage counter at the same time. I ensured this by making sure
 that you simulate simultaneous events in
 this order:
 
-    (a) A passenger leaving a security counter.
-    (b) A passenger leaving a luggage counter.
-    (c) A passenger arriving at the terminal.
+    1. A passenger leaving a security counter.
+    2. A passenger leaving a luggage counter.
+    3. A passenger arriving at the terminal.
 
